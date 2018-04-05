@@ -6,7 +6,7 @@ class HotspiderSpider(scrapy.Spider):
     name = "hotspider"
     allowed_domains = ["qiushibaike.com"]
     start_urls = []
-    for i in range(1,2):
+    for i in range(1,14):
         start_urls.append('http://www.qiushibaike.com/8hr/page/'+str(i)+'/')
         
 
