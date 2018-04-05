@@ -5,4 +5,5 @@
 ###存到.txt文件
 ![Image text](https://github.com/xiaoyuan199/Baike_Scrapy/blob/master/txtw%E6%96%87%E4%BB%B6.JPG)
 ###存到mysql
+
 ![Image text](https://github.com/xiaoyuan199/Baike_Scrapy/blob/master/mysql_img.JPG)
